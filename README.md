@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Mychell (Myvença) 👋
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho com Desenvolvedor Fullstack | HTML | CSS | Js | React.JS | angular |C# .net |
 - 🌱 Estudando JAVASCRIPT & PHP
 
  <div style="display: inline_block"><br>
